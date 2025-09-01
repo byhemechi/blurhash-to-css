@@ -305,10 +305,10 @@ bl@^4.0.3:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blurhash-to-css@0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/blurhash-to-css/-/blurhash-to-css-0.3.3.tgz#6d2ac3315ca027035c177e49aecf20625ff83064"
-  integrity sha512-SD/7/39yNRbxTXDQq1ZDZjB0BOKGiRBnwqqQv+CraokwOh6NCckjOQcJ6i1CSfMzQfvv4+uHxwHxFP4cLZTvOw==
+blurhash-to-css@0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/blurhash-to-css/-/blurhash-to-css-0.4.3.tgz#d0711e70b41d963b4bb886b223fda83f012fb598"
+  integrity sha512-BcgK+OUMXHcgcy79gOgxFrRjtxZpcLGVeCKhOqlr/h2fUVf06bkMPQ1jdDsagYhjy9IlJbeeMCaTy6Ykrvughw==
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.11.9:
   version "4.11.9"
@@ -2030,9 +2030,9 @@ supports-color@^7.1.0:
     has-flag "^4.0.0"
 
 tar-fs@^2.0.0, tar-fs@^2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-2.1.1.tgz#489a15ab85f1f0befabb370b7de4f9eb5cbe8784"
-  integrity sha512-V0r2Y9scmbDRLCNex/+hYzvp/zyYjvFbHPNgVTKfQvVrb6guiE/fxP+XblDNR011utopbkex2nM4dHNV6GDsng==
+  version "2.1.3"
+  resolved "https://registry.yarnpkg.com/tar-fs/-/tar-fs-2.1.3.tgz#fb3b8843a26b6f13a08e606f7922875eb1fbbf92"
+  integrity sha512-090nwYJDmlhwFwEW3QQl+vaNnxsO2yVsd45eTKRBzSzu+hlb1w2K9inVq5b0ngXuLVqQ4ApvsUHHnu/zQNkWAg==
   dependencies:
     chownr "^1.1.1"
     mkdirp-classic "^0.5.2"
