@@ -305,10 +305,10 @@ bl@^4.0.3:
     inherits "^2.0.4"
     readable-stream "^3.4.0"
 
-blurhash-to-css@0.3.3:
-  version "0.3.3"
-  resolved "https://registry.yarnpkg.com/blurhash-to-css/-/blurhash-to-css-0.3.3.tgz#6d2ac3315ca027035c177e49aecf20625ff83064"
-  integrity sha512-SD/7/39yNRbxTXDQq1ZDZjB0BOKGiRBnwqqQv+CraokwOh6NCckjOQcJ6i1CSfMzQfvv4+uHxwHxFP4cLZTvOw==
+blurhash-to-css@0.4.3:
+  version "0.4.3"
+  resolved "https://registry.yarnpkg.com/blurhash-to-css/-/blurhash-to-css-0.4.3.tgz#d0711e70b41d963b4bb886b223fda83f012fb598"
+  integrity sha512-BcgK+OUMXHcgcy79gOgxFrRjtxZpcLGVeCKhOqlr/h2fUVf06bkMPQ1jdDsagYhjy9IlJbeeMCaTy6Ykrvughw==
 
 bn.js@^4.0.0, bn.js@^4.1.0, bn.js@^4.11.9:
   version "4.11.9"
@@ -817,9 +817,9 @@ electron-to-chromium@^1.3.634:
   integrity sha512-/9ROOyvEflEbaZFUeGofD+Tqs/WynbSTbNgNF+/TJJxH1ePD/e6VjZlDJpW3FFFd3nj5l3Hd8ki2vRwy+gyRFw==
 
 elliptic@^6.5.3:
-  version "6.5.4"
-  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.5.4.tgz#da37cebd31e79a1367e941b592ed1fbebd58abbb"
-  integrity sha512-iLhC6ULemrljPZb+QutR5TQGB+pdW6KGD5RSegS+8sorOZT+rdQFbsQFJgvN3eRqNALqJer4oQ16YvJHlU8hzQ==
+  version "6.6.1"
+  resolved "https://registry.yarnpkg.com/elliptic/-/elliptic-6.6.1.tgz#3b8ffb02670bf69e382c7f65bf524c97c5405c06"
+  integrity sha512-RaddvvMatK2LJHqFJ+YA4WysVN5Ita9E35botqIYspQ4TkRAlCicdzKOjlyv/1Za5RyTNn7di//eEV0uTAfe3g==
   dependencies:
     bn.js "^4.11.9"
     brorand "^1.1.0"
